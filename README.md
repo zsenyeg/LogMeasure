@@ -1,2 +1,2 @@
 # LogMeasure
-Logmeasure is just dummy project still
+Logmeasure is just a dummy project still
