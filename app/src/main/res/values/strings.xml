@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">LogMeasure</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Environment brightness -->
+    <string name="change_ev_brightness">Environment brightness</string>
+
+    <string name="pref_ev_brightness" translatable="false">ev_brightness</string>
+
+    <string name="pref_ev_brightness_high">High</string>
+    <string name="pref_ev_brightness_medium">Medium</string>
+    <string name="pref_ev_brightness_low">Low</string>
+
+    <string name="pref_ev_brightness_high_value" translatable="false">high</string>
+    <string name="pref_ev_brightness_medium_value" translatable="false">medium</string>
+    <string name="pref_ev_brightness_low_value" translatable="false">low</string>
+
+    <!-- Log type -->
+    <string name="change_log_type">Log type</string>
+
+    <string name="pref_log_type" translatable="false">log_type</string>
+
+    <string name="pref_log_type_oak">Oak</string>
+    <string name="pref_log_type_beech">Beech</string>
+    <string name="pref_log_type_acacias">Acacias</string>
+
+    <string name="pref_log_type_oak_value" translatable="false">oak</string>
+    <string name="pref_log_type_beech_value" translatable="false">beech</string>
+    <string name="pref_log_type_acacias_value" translatable="false">acacias</string>
+
+    <!-- Calculation result -->
+    <string name="settings_and_result">Settings and result</string>
+    <string name="calculation_result">Calculation result</string>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Label ordering must match values -->
+    <!-- Environment brightness oprions -->
+    <array name="pref_ev_brightness_option_labels">
+        <item>@string/pref_ev_brightness_high</item>
+        <item>@string/pref_ev_brightness_medium</item>
+        <item>@string/pref_ev_brightness_low</item>
+    </array>
+
+    <array name="pref_ev_brightness_option_values">
+        <item>@string/pref_ev_brightness_high_value</item>
+        <item>@string/pref_ev_brightness_medium_value</item>
+        <item>@string/pref_ev_brightness_low_value</item>
+    </array>
+
+    <!-- Log type options -->
+    <array name="pref_log_type_option_labels">
+        <item>@string/pref_log_type_oak</item>
+        <item>@string/pref_log_type_beech</item>
+        <item>@string/pref_log_type_acacias</item>
+    </array>
+
+    <array name="pref_log_type_option_values">
+        <item>@string/pref_log_type_oak_value</item>
+        <item>@string/pref_log_type_beech_value</item>
+        <item>@string/pref_log_type_acacias_value</item>
+    </array>
+</resources>
